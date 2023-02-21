@@ -1,0 +1,130 @@
+body{
+
+}
+.nav a{
+margin-right: 2.0%;
+
+}
+#whole{
+	background-color: grey;
+}
+h4{
+text-align: center;
+color: blue;
+ font-weight: bold;
+
+}
+.box{
+	margin:1%;
+	border-radius: 12px;
+	height: 70%;
+	width: auto;
+	padding-left: 5px;
+	font-weight: bold;
+	background-color: lightblue;
+	box-shadow: 0px 7px 7px  black;
+}
+
+.box1{
+	margin:1%;
+	display: grid;
+	grid-template-columns: auto auto;
+	border-radius: 12px;
+	height: 70%;
+	width: 98%;
+	padding-left: 5px;
+		box-shadow: 0px 7px 7px  black;
+	background-color: lightblue;
+}
+
+.m1{
+width: 90%;
+height:20px;
+background-color: grey;
+border-radius: 9px;
+}
+#m1{
+background-color: green;
+width: 89%;
+height: 20px;
+border-radius: 9px;
+}
+
+#m2{
+background-color: green;
+width: 75%;
+height: 20px;
+border-radius: 9px;
+}
+
+
+
+#m3{
+background-color: green;
+width: 73%;
+height: 20px;
+border-radius: 9px;
+}
+
+#m4{
+background-color: green;
+width: 71%;
+height: 20px;
+border-radius: 9px;
+}
+#m5{
+background-color: green;
+width: 94%;
+height: 20px;
+border-radius: 9px;
+
+}
+#mm1 {
+width: 30%;
+
+}
+.mm1{
+	margin-right: 1%;
+}
+#mm2 {
+width: 30%;
+
+}
+#mm3 {
+	
+width: 30%;
+
+}
+#sidebar{
+width:40%;
+height: 60%;
+background-color: lightblue;
+float: left;
+border-radius: 10px;
+padding-left: 3px;
+color: black;
+box-shadow: 0px 0px 10px 0px black;
+}
+
+#list{
+	background-color: white;
+}
+#smedia{
+margin-left: 3px;
+
+width: 90%;
+height: 400%;
+margin: auto;
+}
+.btn{
+	position: absolute;
+	min-width: 26%;
+}
+#gridding{
+	display: grid;
+	grid-template-columns: auto auto;
+width: 100%;
+text-align: center;
+
+}
+

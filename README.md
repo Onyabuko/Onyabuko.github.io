@@ -37,7 +37,7 @@
 <H1>Hi, i'm Isaac Onyabuko.	</H1>
 A <mark>Web Designer</mark>, <b>Software Developer</b> and a <i>Professional Photographer</i>.
 <br>
-<p style="font-size:4em;">
+<p>
 My journey of web design and software development have always been driven by passion to be a better developer than i am right now, to be greater and become a professional in all aspects.
 i know it will take a lot of effort but i always work towards making  a dream come true, together with any team i come across in the job field, i'll be able to learn more as well as to spread my knowledge to where neccessary.
 

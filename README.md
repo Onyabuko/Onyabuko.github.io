@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="profile.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
-<body style=" font-size:4em;">
+<body>
 	
 	<ul class="nav nav-pills nav-fill gap-2 p-1 small bg-primary rounded-5 shadow-sm" id="pillNav2" role="tablist" style="--bs-nav-link-color: var(--bs-white); --bs-nav-pills-link-active-color: var(--bs-primary); --bs-nav-pills-link-active-bg: var(--bs-white);">
 
@@ -37,7 +37,7 @@
 <H1>Hi, i'm Isaac Onyabuko.	</H1>
 A <mark>Web Designer</mark>, <b>Software Developer</b> and a <i>Professional Photographer</i>.
 <br>
-<p>
+<p style="font-size:4em;">
 My journey of web design and software development have always been driven by passion to be a better developer than i am right now, to be greater and become a professional in all aspects.
 i know it will take a lot of effort but i always work towards making  a dream come true, together with any team i come across in the job field, i'll be able to learn more as well as to spread my knowledge to where neccessary.
 

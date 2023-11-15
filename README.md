@@ -35,7 +35,7 @@
 <div id="whole">
 <div id="sidebar">
 <H1>Hi, i'm Isaac Onyabuko.	</H1>
-A <mark>Web Designer</mark>, <b>Software Developer</b> and a <i>Professional Photographer</i>.
+I am a passionate and creative IT professional with a keen eye for web and software development.  <mark>Web Designer</mark>, <b>Software Developer</b> and a <i>Professional Photographer</i>.
 <br>
 <p style="font-size:0.8em;" >
 My journey of web design and software development have always been driven by passion to be a better developer than i am right now, to be greater and become a professional in all aspects.

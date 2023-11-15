@@ -46,7 +46,7 @@ i know it will take a lot of effort but i always work towards making  a dream co
 </div>
 
 <div id="right">
-<img src="img1.jpg" width="60%" height="59%" style="border-radius: 9px; float: right;">
+<img src="me.jpg" width="60%" height="59%" style="border-radius: 9px; float: right;">
 </div>
 
 </div>
